@@ -1,1 +1,1 @@
-# my-up.gihub.io
+# my-up.github.io
